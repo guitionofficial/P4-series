@@ -1,0 +1,69 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250717-14:23
+Connect baud: 115200
+Com:COM2705
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600000
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4848P443_v1.0.bin
+Wrote 13697024 bytes (7175838 compressed) at 0x00000000 in 87.7 seconds (effective 1249.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4848P443_v1.0.bin
+File  md5: 51a9e559922577d92bce436df8b98bce
+Flash md5: 51a9e559922577d92bce436df8b98bce
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 114 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250723-11:54
+Connect baud: 115200
+Com:COM2705
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.2.bin
+Wrote 13697024 bytes (7184684 compressed) at 0x00000000 in 116.1 seconds (effective 943.8 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.2.bin
+File  md5: 408d95240156420f4e13d54dcac1a0cd
+Flash md5: 408d95240156420f4e13d54dcac1a0cd
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 136 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250724-14:59
+Connect baud: 115200
+Com:COM2705
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.3.bin
+Wrote 13697024 bytes (7174364 compressed) at 0x00000000 in 117.7 seconds (effective 931.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.3.bin
+File  md5: 2496a1390552d8ae5104c48b0db2adda
+Flash md5: 2496a1390552d8ae5104c48b0db2adda
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 138 s
+Download result: PASS
+*************************** END ****************************
+

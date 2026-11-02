@@ -1,0 +1,58 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20251211-15:54
+Connect baud: 115200
+Com:COM925
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443C_I_W_xiaozhi2.0.4.bin
+Wrote 11240288 bytes (2956036 compressed) at 0x00000000 in 73.6 seconds (effective 1221.5 kbit/s)...
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20251211-15:56
+Connect baud: 115200
+Com:COM925
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443C_I_W_xiaozhi2.0.4.bin
+Wrote 11240288 bytes (2956036 compressed) at 0x00000000 in 59.1 seconds (effective 1520.6 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443C_I_W_xiaozhi2.0.4.bin
+File  md5: 0f36b3a59fbd3cebd5b2db4443361fd7
+Flash md5: 0f36b3a59fbd3cebd5b2db4443361fd7
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 77 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20251211-16:00
+Connect baud: 115200
+Com:COM925
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.7.bin
+Wrote 13762560 bytes (7213425 compressed) at 0x00000000 in 93.0 seconds (effective 1183.9 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.7.bin
+File  md5: ec46d02e8fe3972ef4554a6ce9e5e026
+Flash md5: ec46d02e8fe3972ef4554a6ce9e5e026
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 112 s
+Download result: PASS
+*************************** END ****************************
+

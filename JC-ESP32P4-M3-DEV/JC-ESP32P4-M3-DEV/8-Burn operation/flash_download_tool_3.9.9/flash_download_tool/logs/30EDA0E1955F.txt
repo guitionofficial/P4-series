@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250731-16:10
+Connect baud: 115200
+Com:COM2703
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.3.bin
+Wrote 13697024 bytes (7174364 compressed) at 0x00000000 in 116.1 seconds (effective 944.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC4880P443-V1.3.bin
+File  md5: 2496a1390552d8ae5104c48b0db2adda
+Flash md5: 2496a1390552d8ae5104c48b0db2adda
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 136 s
+Download result: PASS
+*************************** END ****************************
+

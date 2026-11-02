@@ -1,0 +1,40 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20251211-16:14
+Connect baud: 115200
+Com:COM926
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+
+Leaving...
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20251211-16:15
+Connect baud: 115200
+Com:COM926
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\waveshare-s3-knob.bin
+Wrote 5226176 bytes (2552347 compressed) at 0x00000000 in 37.1 seconds (effective 1127.2 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\waveshare-s3-knob.bin
+File  md5: 5c1e27c81aff2c972ee6ae96cb66b18a
+Flash md5: 5c1e27c81aff2c972ee6ae96cb66b18a
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 50 s
+Download result: PASS
+*************************** END ****************************
+

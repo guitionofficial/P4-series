@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250911-17:43
+Connect baud: 115200
+Com:COM3681
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp_brookesia_phone(1).bin
+Wrote 15794176 bytes (8834234 compressed) at 0x00000000 in 117.4 seconds (effective 1076.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp_brookesia_phone(1).bin
+File  md5: d1011c397f7e2162456a6c70ac68c14f
+Flash md5: d1011c397f7e2162456a6c70ac68c14f
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 140 s
+Download result: PASS
+*************************** END ****************************
+

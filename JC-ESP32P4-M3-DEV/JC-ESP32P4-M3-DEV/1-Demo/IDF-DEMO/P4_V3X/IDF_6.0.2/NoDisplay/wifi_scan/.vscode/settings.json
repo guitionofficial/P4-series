@@ -1,0 +1,4 @@
+{
+    "idf.pythonInstallPath": "/home/jzl/.espressif/python_env/idf6.0_py3.12_env/bin/python",
+    "idf.flashType": "UART"
+}

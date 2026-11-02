@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20260714-14:10
+Connect baud: 115200
+Com:COM3698
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC-ESP32P4-M3-TEST-V1.3.bin
+Wrote 268416 bytes (119541 compressed) at 0x00000000 in 1.9 seconds (effective 1104.6 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC-ESP32P4-M3-TEST-V1.3.bin
+File  md5: 99cd2f5967db561ab8cb2a31727a5013
+Flash md5: 99cd2f5967db561ab8cb2a31727a5013
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+

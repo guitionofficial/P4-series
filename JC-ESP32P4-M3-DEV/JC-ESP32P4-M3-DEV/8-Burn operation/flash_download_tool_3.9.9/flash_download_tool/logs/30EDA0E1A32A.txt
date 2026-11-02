@@ -1,0 +1,40 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250730-15:46
+Connect baud: 115200
+Com:COM2707
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600000
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC1060P470-V1.7.bin
+set STOP FLG: Truecom closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20250730-15:46
+Connect baud: 115200
+Com:COM2707
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600000
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC1060P470-V1.7.bin
+Wrote 14745600 bytes (4658124 compressed) at 0x00000000 in 78.1 seconds (effective 1511.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC1060P470-V1.7.bin
+File  md5: aa092290debee3db5e5a72e0abd0395c
+Flash md5: aa092290debee3db5e5a72e0abd0395c
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 106 s
+Download result: PASS
+*************************** END ****************************
+

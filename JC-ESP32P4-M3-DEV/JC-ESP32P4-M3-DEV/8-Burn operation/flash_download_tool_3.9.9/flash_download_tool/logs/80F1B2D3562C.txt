@@ -1,0 +1,46 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20260519-17:14
+Connect baud: 115200
+Com:COM997
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\P4A1.bin
+Wrote 13697024 bytes (5233039 compressed) at 0x00000000 in 60.7 seconds (effective 1806.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\P4A1.bin
+File  md5: 2127c4ba059d57149c501139e71e10bd
+Flash md5: 2127c4ba059d57149c501139e71e10bd
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 81 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20260519-17:33
+Connect baud: 115200
+Com:COM997
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged-binary.bin
+Wrote 1010736 bytes (467082 compressed) at 0x00000000 in 5.1 seconds (effective 1595.0 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged-binary.bin
+File  md5: dcd1e26eb15a04b2db2d29fa097a4c60
+Flash md5: dcd1e26eb15a04b2db2d29fa097a4c60
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 8 s
+Download result: PASS
+*************************** END ****************************
+

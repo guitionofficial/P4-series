@@ -1,0 +1,23 @@
+*************************** START ****************************
+Chip: ESP32P4
+Download mode: usb
+Start time: 20260519-16:59
+Connect baud: 115200
+Com:COM995
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC1060P470C_I_W_Y-V3.4ÐÂ²£Á§.bin
+Wrote 15859712 bytes (8876369 compressed) at 0x00000000 in 81.8 seconds (effective 1551.7 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.9\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\JC1060P470C_I_W_Y-V3.4ÐÂ²£Á§.bin
+File  md5: 23585a456bc5dd5daa1d8b341e2f8e48
+Flash md5: 23585a456bc5dd5daa1d8b341e2f8e48
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 105 s
+Download result: PASS
+*************************** END ****************************
+
