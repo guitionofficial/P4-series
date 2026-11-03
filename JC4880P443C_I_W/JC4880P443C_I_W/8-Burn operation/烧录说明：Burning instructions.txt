@@ -1,0 +1,2 @@
+1、保证供电充足，开发板电流600ma以上：Ensure sufficient power supply, with a development board current of over 600mA
+2、烧录选择USB2口：Choose USB2 port for burning

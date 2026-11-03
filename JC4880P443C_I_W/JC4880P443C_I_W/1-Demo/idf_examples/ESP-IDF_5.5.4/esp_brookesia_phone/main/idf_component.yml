@@ -1,0 +1,13 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp_wifi_remote:
+    version: '*'
+  espressif/esp_hosted:
+    version: '2.11.*'
+
+  espressif/esp-brookesia:
+    version: 0.4.*
+  espressif/avi_player: ^2.0.0
+
+  esp_lcd_st7701: '*'
+  espressif/adc_battery_estimation: ^0.2.0
