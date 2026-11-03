@@ -1,0 +1,23 @@
+# Example configuration
+
+menu "New App Configuration"
+
+config EXAMPLE_VOICE_VOLUME
+    int "Voice Volume"
+    default 60
+    help
+      Set the initial voice volume level (0-100)
+
+config EXAMPLE_MIC_GAIN
+    int "Microphone Gain"
+    default 20
+    help
+      Set the microphone gain level
+
+config EXAMPLE_PA_CTRL_IO
+    int "PA Control GPIO"
+    default 11
+    help
+      GPIO number for PA (Power Amplifier) control
+
+endmenu

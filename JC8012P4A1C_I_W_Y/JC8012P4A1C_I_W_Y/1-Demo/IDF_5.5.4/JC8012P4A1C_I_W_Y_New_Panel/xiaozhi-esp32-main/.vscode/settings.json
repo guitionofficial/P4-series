@@ -1,0 +1,20 @@
+{
+  "idf.espIdfPath": "/home/jzl/esp/v5.5.4/esp-idf",
+  "idf.toolsPath": "/home/jzl/.espressif",
+  "idf.pythonInstallPath": "/home/jzl/.espressif/python_env/idf6.0_py3.12_env/bin/python",
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyACM0",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32p4"
+  },
+  "clangd.path": "/home/jzl/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/home/jzl/jzl/vscode/project/project/IDF_5.5.4/p260513/P443/idf_examples/ESP-IDF/xiaozhi-esp32-main/build"
+  ],
+  "idf.currentSetup": "/home/jzl/esp/v5.5.4/esp-idf"
+}
