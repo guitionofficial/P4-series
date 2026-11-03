@@ -1,8 +1,0 @@
-## IDF Component Manager Manifest File
-dependencies:
-  lvgl/lvgl:
-    version: 9.2.*
-    public: true
-  espressif/esp_lcd_jd9165: "*"
-  espressif/esp_h264: ^1.1.2
-  espressif/esp-dsp: ^1.7.0
