@@ -1,4 +1,0 @@
-{
-    "idf.flashType": "UART",
-    "idf.port": "/dev/ttyACM0"
-}
