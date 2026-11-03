@@ -1,8 +1,0 @@
-## IDF Component Manager Manifest File
-dependencies:
-  esp_lcd_touch_gt911: ^1
-
-  lvgl/lvgl: ^9.2.2
-  esp_lcd_st7701: ^1
-  espressif/esp_lcd_touch_cst816s: ^1.1.0
-  espressif/esp_lcd_jd9365: ^1.0.2
