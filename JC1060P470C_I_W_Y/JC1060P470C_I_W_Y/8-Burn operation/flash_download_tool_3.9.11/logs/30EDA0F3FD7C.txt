@@ -1,0 +1,120 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20260911-13:02
+Connect baud: 115200
+Com:COM3999
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash_download_tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118.bin
+Wrote 12607488 bytes (3296863 compressed) at 0x00000000 in 70.6 seconds (effective 1428.7 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash_download_tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118.bin
+File  md5: b45d7a9d4efa4b13ea466fb05da9764d
+Flash md5: b45d7a9d4efa4b13ea466fb05da9764d
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 96 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20260924-10:39
+Connect baud: 115200
+Com:COM3999
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\CNCÐýÅ¥ÐÂ20260924.bin
+Wrote 12607488 bytes (3299069 compressed) at 0x00000000 in 72.0 seconds (effective 1400.3 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\CNCÐýÅ¥ÐÂ20260924.bin
+File  md5: 45a1ba1218a4861fd481577a80dd6674
+Flash md5: 45a1ba1218a4861fd481577a80dd6674
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 97 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20260928-13:46
+Connect baud: 115200
+Com:COM3999
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.0.bin
+Wrote 11481088 bytes (2806041 compressed) at 0x00000000 in 62.8 seconds (effective 1463.2 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.0.bin
+File  md5: 511ad12daaf2f6ce2ed989764378b5be
+Flash md5: 511ad12daaf2f6ce2ed989764378b5be
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 85 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20261008-16:33
+Connect baud: 115200
+Com:COM3999
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.1.bin
+Wrote 11481088 bytes (2811177 compressed) at 0x00000000 in 62.7 seconds (effective 1464.1 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.1.bin
+File  md5: 7921f9f8fa075b13351d37264b68c7c4
+Flash md5: 7921f9f8fa075b13351d37264b68c7c4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 85 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20261012-17:28
+Connect baud: 115200
+Com:COM3999
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.2.bin
+Wrote 11481088 bytes (2811177 compressed) at 0x00000000 in 63.6 seconds (effective 1444.7 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F118_V1.2.bin
+File  md5: 7921f9f8fa075b13351d37264b68c7c4
+Flash md5: 7921f9f8fa075b13351d37264b68c7c4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 86 s
+Download result: PASS
+*************************** END ****************************
+

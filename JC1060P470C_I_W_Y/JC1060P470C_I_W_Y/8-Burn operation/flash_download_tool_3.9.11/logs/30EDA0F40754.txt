@@ -1,0 +1,39 @@
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20260911-16:20
+Connect baud: 115200
+Com:COM4003
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S31
+Download mode: usb
+Start time: 20260911-16:20
+Connect baud: 115200
+Com:COM4003
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x0
+address/file: 0 C:\Users\zhang'pei\Desktop\flash_download_tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F318.bin
+Wrote 12607488 bytes (3321578 compressed) at 0x00000000 in 53.5 seconds (effective 1883.9 kbit/s)...
+File: C:\Users\zhang'pei\Desktop\flash_download_tool\flash_download_tool_3.9.11\dl_temp\bin_tmp\downloadPanel1\JC3636F318.bin
+File  md5: bf9a62120ad459bbee116138731fddb8
+Flash md5: bf9a62120ad459bbee116138731fddb8
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 78 s
+Download result: PASS
+*************************** END ****************************
+

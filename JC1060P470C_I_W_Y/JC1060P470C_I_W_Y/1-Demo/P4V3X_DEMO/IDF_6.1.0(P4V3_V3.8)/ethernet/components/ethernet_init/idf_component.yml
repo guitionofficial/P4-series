@@ -1,0 +1,5 @@
+dependencies:
+  # IP101 PHY driver has been moved out of ESP-IDF since v6.0 and is now
+  # distributed via the ESP Component Registry.
+  espressif/ip101:
+    version: "^1.1.0"

@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  lvgl/lvgl:
+    version: "8.4.*"
+    public: true
+  esp_lcd_jd9165: '*'

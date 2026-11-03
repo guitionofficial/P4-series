@@ -1,0 +1,3 @@
+#ESP-IDF V5.5.4及以上版本
+#使用摄像头时需使用提供的esp_cam_sensor文件替换掉managed_components文件夹中的文件。提供的esp_cam_sensor版本为v2.1.0
+#esp_brookesia_phone项目时，需将common_components文件夹里的espressif__esp-brookesia移至esp_brookesia_phone项目的components文件夹下

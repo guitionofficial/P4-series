@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /home/jzl/jzl/vscode/project/test/t260625/iperf2 -type f | head -100)",
+      "Read(//home/jzl/jzl/vscode/project/test/t260625/iperf2/**)",
+      "Bash(ls -la /home/jzl/jzl/vscode/project/test/t260625/iperf2/)",
+      "Bash(ls /home/jzl/jzl/vscode/project/test/t260702/)",
+      "Read(//home/jzl/jzl/vscode/project/test/t260702/**)"
+    ]
+  }
+}

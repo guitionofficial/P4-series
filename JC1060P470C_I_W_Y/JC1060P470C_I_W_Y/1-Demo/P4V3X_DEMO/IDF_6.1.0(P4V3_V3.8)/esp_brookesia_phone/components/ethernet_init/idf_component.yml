@@ -1,0 +1,3 @@
+dependencies:
+  espressif/ip101:
+    version: "^1.0.0"

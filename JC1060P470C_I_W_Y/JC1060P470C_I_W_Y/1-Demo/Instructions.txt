@@ -1,0 +1,1 @@
+The sample program has a video playback function, and copying the MJPEG folder to the TF card can play videos. The speaker needs to be connected externally. The TF card capacity should be less than 32GB, formatted as FAT32.
